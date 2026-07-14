@@ -49,7 +49,6 @@ stack = {
 | Repository | What it is |
 |------------|-----------|
 | [EngenhariaDeSoftwareEstacio](https://github.com/andrehs-dev/EngenhariaDeSoftwareEstacio) | All assignments, exercises and notes from my Software Engineering degree |
-| [AppRotaRapida](https://github.com/andrehs-dev/AppRotaRapida) | Personal project — a route tool I'm building to learn and use daily |
 
 ---
 
